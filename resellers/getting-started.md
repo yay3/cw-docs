@@ -6,13 +6,6 @@ description: >-
 
 # Getting Started
 
-## Starting The Setup Process
-
-1. Complete this form [https://airtable.com/shr4UleQsOP7OApli](https://airtable.com/shr4UleQsOP7OApli)
-2. We will setup your billing account and contact you for the deposit
-3. Once the deposit is paid, we will set up your account
-4. Finally, we will provide you instructions to connect your domain to your reseller platform
-
 ## Understanding The Reseller Platform
 
 Your reseller platform consists of 3 parts
