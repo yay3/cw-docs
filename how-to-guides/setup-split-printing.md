@@ -6,5 +6,7 @@ description: >-
 
 # Setup Split Printing
 
-{% embed url="https://youtu.be/i5NwBqIQ4qI" caption="" %}
+{% embed url="https://youtu.be/i5NwBqIQ4qI" %}
+
+
 
