@@ -12,14 +12,10 @@ description: Postmates is a last mile delivery services operating in the USA.
 [This is the updated list of cities where Postmates is available](https://www.notion.so/cloudwaitresswiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
 {% endhint %}
 
-
-
 ## How to set-up CloudWaitress &gt; Postmates integration
 
 {% tabs %}
 {% tab title="How to generate the Webhook?" %}
-
-
 1 - Login to Postmates account at - partner.postmates.com
 
 2 - Click Developer &gt; Webhooks &gt; Create Webhook
@@ -84,18 +80,16 @@ IMPORTANT - The following settings must be applied for the Postmates integration
 **In Cloudwaitress the following settings must be applied;**
 
 1. Generate and add the webhook to Postmates \(details above\)
-
 2. Add the Postmates keys into restaurant dashboard. Settings &gt; Integrations &gt; Postmates.
-
 3. Settings &gt; Services &gt; Deliveries &gt; Fees &gt; None
 
 ![](../.gitbook/assets/postmates-essential-settings-1.png)
 
-4. Settings &gt; Services &gt; Deliveries &gt; General &gt; Default Delivery Provider = Postmates
+1. Settings &gt; Services &gt; Deliveries &gt; General &gt; Default Delivery Provider = Postmates
 
 ![](../.gitbook/assets/postmates-essential-settings-2.png)
 
-5. Settings &gt; Services &gt; Deliveries &gt; Wait Times & Auto Statuses
+1. Settings &gt; Services &gt; Deliveries &gt; Wait Times & Auto Statuses
 
 The following settings MUST be enabled;
 

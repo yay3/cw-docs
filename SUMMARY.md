@@ -32,8 +32,6 @@
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Payments & Billing](platform-information/your-subscription-and-billing.md)
-  * [Special Features](platform-information/special-features/README.md)
-    * [Public Holiday Surcharge](platform-information/special-features/public-holiday-surcharge.md)
 * [Resellers](resellers/README.md)
   * [Overview](resellers/overview.md)
   * [Getting Started](resellers/getting-started.md)
