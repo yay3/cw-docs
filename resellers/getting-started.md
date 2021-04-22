@@ -22,13 +22,9 @@ An organization can have one or more **restaurants** under it. Each of these res
 
 Organizations can also have **staff accounts** that have access restricted to particular restaurants and particular functions.
 
-### The Ideal Way To Setup New Clients
-
-We recommend that for every new business that you work with, you create them their own account. All their store branches should be added as restaurants under this single account. Managers of each branch can be given their own staff account with access to just that store branch.
-
 ## Creating New Accounts
 
-You can create new accounts through the signup form on your admin dashboard. Any accounts created from here will be part of your main reseller account. Their online stores and landing pages will have your branding on them, not ours.
+You can create new accounts through the signup form on your admin dashboard. Any accounts created from here will be part of your main reseller account. Their online stores and landing pages will have your branding on them as well as ours.
 
 When we set up your reseller platform, we would have either enabled or disabled **e-mail verification** depending on how you plan to set up your customers.
 
