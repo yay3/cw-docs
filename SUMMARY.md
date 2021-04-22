@@ -22,7 +22,6 @@
   * [Setup Apple Pay with Checkout.com](how-to-guides/setup-apple-pay-with-checkout.com.md)
   * [Setup Custom Checkout Fields](how-to-guides/setup-custom-checkout-fields.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
-  * [How to integrate Postmates with CloudWaitress](how-to-guides/how-to-integrate-postmates-with-cloudwaitress.md)
   * [How to add Driver Tracking](how-to-guides/shipday-integration.md)
   * [Purchase A Domain Name](how-to-guides/purchase-a-domain-name.md)
   * [Setup A Custom Domain](how-to-guides/setup-a-custom-domain.md)
