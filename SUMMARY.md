@@ -31,7 +31,7 @@
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
-  * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
+  * [Payments & Billing](platform-information/your-subscription-and-billing.md)
   * [Special Features](platform-information/special-features/README.md)
     * [Public Holiday Surcharge](platform-information/special-features/public-holiday-surcharge.md)
 * [Resellers](resellers/README.md)
