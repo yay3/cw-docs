@@ -10,11 +10,11 @@ Customers include people who have placed an order at your online store or signed
 
 ## Types Of Customers
 
-### Guest Customers
+#### Guest Customers
 
 Guest customers are created whenever an order is placed by a user who has not signed in. We attempt to track guest customers by matching their name, phone and email address. When a guest places an order, if those 3 pieces of information match any past customers, the old customer will be updated instead of a new one being created.
 
-### Logged In Customers
+#### Logged In Customers
 
 A logged in customer is anyone who has used the login / sign up button to create an account. When a customer signs up for the first time their details are logged into your customer dashboard. Any subsequent logins or orders will also update their details. Customers who log in will have their order history permanently accessible to them.
 
@@ -25,6 +25,8 @@ Customers create accounts using:
 * Google
 
 ## Guides
+
+{% page-ref page="../how-to-guides/setup-facebook-login.md" %}
 
 ## Caveats & Known Issues
 
